@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/C++ Practice/test/cmake-course/course/4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DHELLO_VERSION=1.1 -I\"E:/C++ Practice/test/cmake-course/course/4/libs\" -g -o libs\\CMakeFiles\\HelloLibrary.dir\\hello\\hello-library.cpp.obj -c \"E:\\C++ Practice\\test\\cmake-course\\course\\4\\libs\\hello\\hello-library.cpp\"",
+  "file": "E:\\C++ Practice\\test\\cmake-course\\course\\4\\libs\\hello\\hello-library.cpp"
+},
+{
+  "directory": "E:/C++ Practice/test/cmake-course/course/4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"E:/C++ Practice/test/cmake-course/course/4/libs\" -g -o app\\CMakeFiles\\HelloApp.dir\\main.cpp.obj -c \"E:\\C++ Practice\\test\\cmake-course\\course\\4\\app\\main.cpp\"",
+  "file": "E:\\C++ Practice\\test\\cmake-course\\course\\4\\app\\main.cpp"
+}
+]

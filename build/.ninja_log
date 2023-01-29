@@ -1,0 +1,6 @@
+# ninja log v5
+20	547	6967289051214059	app/CMakeFiles/HelloApp.dir/main.cpp.obj	ff8632aaa0889d00
+16	526	6967289050984680	libs/CMakeFiles/HelloLibrary.dir/hello/hello-library.cpp.obj	f5f52e2fb960f839
+526	611	6967289051852365	libs/libHelloLibrary.a	afdaec2ae6e152dd
+611	750	6967289053189054	app/HelloApp.exe	f415e1526f022486
+12	20	0	clean	9c4b4372737ab8da

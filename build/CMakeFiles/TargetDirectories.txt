@@ -1,0 +1,8 @@
+E:/C++ Practice/test/cmake-course/course/4/build/CMakeFiles/edit_cache.dir
+E:/C++ Practice/test/cmake-course/course/4/build/CMakeFiles/rebuild_cache.dir
+E:/C++ Practice/test/cmake-course/course/4/build/libs/CMakeFiles/HelloLibrary.dir
+E:/C++ Practice/test/cmake-course/course/4/build/libs/CMakeFiles/edit_cache.dir
+E:/C++ Practice/test/cmake-course/course/4/build/libs/CMakeFiles/rebuild_cache.dir
+E:/C++ Practice/test/cmake-course/course/4/build/app/CMakeFiles/HelloApp.dir
+E:/C++ Practice/test/cmake-course/course/4/build/app/CMakeFiles/edit_cache.dir
+E:/C++ Practice/test/cmake-course/course/4/build/app/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+{
+    "tasks": [
+      {
+        "type": "shell",
+        "label": "g++.exe build active file",
+        "command": "C:/msys64/mingw64/bin/gdb.exe",
+        "args": [
+          "-g",
+          "${file}",
+          "-o",
+          "E:\\C++ Practice\\test\\cmake-course\\course\\4\\build\\app\\HelloApp.exe"
+        ],
+        "options": {
+          "cwd": "C:/msys64/mingw64/bin"
+        }
+      },
+      {
+        "type": "shell",
+        "label": "g++ build & run active file",
+        "command": "C:/msys64/mingw64/bin/gdb.exe",
+        "args": [
+          "${file}",
+          "-o",
+          "E:\\C++ Practice\\test\\cmake-course\\course\\4\\build\\app\\HelloApp.exe"
+        ],
+        "options": {
+          "cwd": "C:/msys64/mingw64/bin/gdb.exe"
+        }
+      }
+    ],
+    "version":"2.0.0"
+  }
